@@ -1,4 +1,4 @@
-
+![Header](https://github.com/roccopaccione/roccopaccione/blob/main/Blue and Yellow Technology LinkedIn Banner.mp4)
 ### Hi there 👋
 
 - 🔭 I’m currently working on my personal blog deployment
