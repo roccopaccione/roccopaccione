@@ -1,5 +1,5 @@
 ![Header](https://github.com/roccopaccione/roccopaccione/blob/main/Blue_LinkedIn_Banner.mp4)
-### Hi there 👋
+<h1 align="center"> 🌚 Hello there, I'm Rocco 🌝/h1>
 
 - 🔭 I’m currently working on my personal blog deployment
 - 🌱 I’m currently learning Spring Framework and Thymeleaf
