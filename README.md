@@ -2,7 +2,7 @@
 <h1 align="center"> 🌚 Hello there, I'm Rocco 🌝</h1>
 <br>
 
-- 🔭 I’m currently working on my personal blog deployment
+- 🔭 I’m currently working on Yum-Rando's full-stack web application with my team!!!!
 - 🌱 I’m currently learning Spring Framework and Thymeleaf
 - 💬 Ask me about my projects, my code, or the beatles!
 - 📫 Contact me on: [LinkedIn](https://www.linkedin.com/in/rocco-paccione-0359561bb/)
