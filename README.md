@@ -1,4 +1,4 @@
-![Header](rocco_paccione_banner.gif)
+![Header](Rocco_paccione_banner.gif)
 <h1 align="center"> 🌚 Hello there, I'm Rocco 🌝</h1>
 <br>
 
