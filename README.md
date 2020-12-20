@@ -1,4 +1,4 @@
-![Header](https://github.com/roccopaccione/roccopaccione/blob/main/Blue_LinkedIn_Banner.mp4)
+![Header](rocco_paccione_banner.gif)
 <h1 align="center"> 🌚 Hello there, I'm Rocco 🌝</h1>
 <br>
 
