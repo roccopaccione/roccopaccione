@@ -14,7 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roccopaccione&theme=onedark&show_icons=true&locale=en&layout=compact" alt="roccopaccione" /></p>
 
 ------
-#### Frontend
+#### Frontend Languages
 <p float="left">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/jasmine%20-%23000000.svg?&style=for-the-badge&logo=jasmine&logoColor=white"/>
 </p>
 
-#### Backend
+#### Backend Languages
 <p float="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
