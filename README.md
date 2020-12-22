@@ -8,12 +8,11 @@
 - 📫 Contact me on: [LinkedIn](https://www.linkedin.com/in/rocco-paccione-0359561bb/)
 - ⚡ Fun fact: I have an unreasonable amount of random music trivia!
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roccopaccione&theme=onedark&show_icons=true&locale=en" alt="roccopaccione" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roccopaccione&theme=onedark&show_icons=true&locale=en&layout=compact" alt="roccopaccione"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roccopaccione&theme=onedark&show_icons=true&locale=en&layout=compact" alt="roccopaccione" /></p>
-
-------
+---
 #### Frontend
 <p float="left">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
