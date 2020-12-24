@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Yum-Rando's full-stack web application with my team!!!!
 - 🌱 I’m currently learning Spring Framework and Thymeleaf
-- 💬 Ask me about my projects, my code, or the beatles!
-- 📫 Contact me on: [LinkedIn](https://www.linkedin.com/in/rocco-paccione-0359561bb/)
-- ⚡ Fun fact: I have an unreasonable amount of random music trivia!
+- 💬 Ask me about my projects, my scripts, or the beatles!
+- 📫 Contact me on: <a href="https://linkedin.com/in/rocco-paccione0321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rocco-paccione0321" height="20" width="30" /></a>
+- ⚡ I love sports(Steelers, Yankees, Penguins, and Spurs), music(The Beatles, Nirvana, Pixies, Pink Floyd, Built to Spill, and Led Zeppekin), art(Basquiat, Van Gogh, and Kandinsky), chess, and much more!
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roccopaccione&theme=onedark&show_icons=true&locale=en" alt="roccopaccione" /></p>
