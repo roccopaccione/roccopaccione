@@ -2,7 +2,7 @@
 <h1 align="center"> 🌚 Hello there, I'm Rocco 🌝</h1>
 <br>
 
-- 🔭 I’m currently writing my first C# game using the Blazer Web App framework
+- 🔭 I just completed writing my first C# game using the Blazer Web App framework
 - 🌱 I’m currently learning C# and .NET
 - 💬 Ask me about my projects, my scripts, or the beatles!
 - 📫 Contact me on: <a href="https://linkedin.com/in/rocco-paccione0321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rocco-paccione0321" height="20" width="30" /></a>
