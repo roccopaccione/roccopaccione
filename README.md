@@ -2,8 +2,8 @@
 <h1 align="center"> 🌚 Hello there, I'm Rocco 🌝</h1>
 <br>
 
-- 🔭 I just completed writing my first C# game using the Blazer Web App framework
-- 🌱 I’m currently learning C# and .NET
+- 🔭 I just completed writing my first Unity game
+- 🌱 I’m currently learning the basics of building a 3-D game on Unity Hub
 - 💬 Ask me about my projects, my scripts, or the beatles!
 - 📫 Contact me on: <a href="https://linkedin.com/in/rocco-paccione0321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rocco-paccione0321" height="20" width="30" /></a>
 - ⚡ I love sports(Steelers, Yankees, Penguins, and Spurs), music(Bowie, Nirvana, Pixies, Pink Floyd, Built to Spill, and Led Zeppelin), art(Basquiat, Van Gogh, and Kandinsky), reading(Kerouac, Burroughs, Orwell, and Vonnegut), and much more!
